@@ -1,9 +1,5 @@
 PinballClient
 ---
-Pinball's Client of [TransFrameworkAndroid](https://github.com/ymjiang/TransFrameworkAndroid).
-This is also the Mobicom version of [E3FrameworkClient](https://github.com/ymjiang/E3FrameworkClient). 
-
-E3FrameworkClient is __no longer__ maintained, therefore all subsequent updates are only available here.
 
 Components
 ---
@@ -11,10 +7,11 @@ This Client project contains:
  - Pinball Library
  - Pinball Client demo
 
-HOW TO USE IT
+HOW TO USE
 ---
-- First, install [PinballFramework](https://github.com/ymjiang/PinballFramework) Service on your Android phone.
+- First, install [PinballFramework](https://github.com/Pinball-Anonymous/PinballFramework) Service on your Android phone.
 - Second, import __PinballBox__ and __PinballClientLib__ modules into your project.
+- A sample is already prepared for you in `app` module.
 - Enjoy your development with __Pinball__.
 
 Basic Usage
