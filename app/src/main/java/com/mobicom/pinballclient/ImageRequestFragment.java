@@ -27,9 +27,6 @@ import org.json.JSONObject;
 
 import java.io.UnsupportedEncodingException;
 
-/**
- * Created by JYM on 2016/3/28.
- */
 public class ImageRequestFragment extends Fragment {
     public static final int INDEX = 2;
     @Nullable
