@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PinballClient</string>
+    <string name="string_request">String Request</string>
+    <string name="json_request">Json Request</string>
+    <string name="image_request">Image Request</string>
+    <string name="image_gridview_request">Image Gridview Request</string>
+    <string name="string_request_example">String Request Example</string>
+    <string name="json_request_example">Json Request Example</string>
+    <string name="image_request_example">Image Request Example</string>
+    <string name="image_gridview_request_example">Gridview Request Example</string>
+    <string name="pinballclient_introduction">PinballClient Sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_string_request">Send String Request</string>
+    <string name="default_request_url">http://121.42.158.232/stringtest.txt</string>
+    <string name="edittext_hint">Input your url here</string>
+    <string name="send_image_request">Send Image Request</string>
+</resources>
